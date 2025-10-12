@@ -1,0 +1,9 @@
+diff --git a/cambios_urgentes.txt b/cambios_urgentes.txt
+index 5853ce1..3481da6 100644
+--- a/cambios_urgentes.txt
++++ b/cambios_urgentes.txt
+@@ -1 +1,4 @@
+ Este es el archivo con el bug inicial.
++La línea con el fix (BUg solucionado)
++La línea con el fix (Bug solucionado)
++Línea adicional para el parche
